@@ -8,8 +8,7 @@
 Hi, I'm Breno Lemos, 25 years old, I'm living in Fortaleza, graduated in engineering, a passionate about development and fascinated by the Digital Ecosystem. I currently work as a Front-End and Web Developer. 
 
 
-- 👔 I’m currently working at Cafaz as a Software Developer, working with development of functionalities and customizations for Integrated ERP System focused in management of health insurance companys. Use of SQL queries and JavaScript. Besides that, development of systems as Protocol, Digital Files, Negotiation and Clinic. Using technologies as React, Node, PHP, MySQL, Oracle, HTML5, CSS3, JavaScript, and Git.
-- 💻 I’m currently learning TDD and Jest.
+- 💻 I’m currently learning TDD.
 - 📚 Reading "How to Be a Better Programmer", to improve my skills as a Developer.
 - ⚡ Fun fact: Graduated in Telecomunication Engineering 👨‍🎓
 
