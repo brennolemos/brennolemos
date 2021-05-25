@@ -12,5 +12,7 @@ Hi, I'm Breno Lemos, 25 years old, I'm living in Fortaleza, graduated in enginee
 - 📚 Reading "How to Be a Better Programmer", to improve my skills as a Developer.
 - ⚡ Fun fact: Graduated in Telecomunication Engineering 👨‍🎓
 
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=brennolemos&theme=dracula&show_icons=true"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brennolemos&layout=compact&theme=dracula"/>
+<a>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=brennolemos&theme=dracula&show_icons=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brennolemos&layout=compact&theme=dracula"/>
+</a>
