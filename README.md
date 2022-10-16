@@ -6,11 +6,11 @@
 
 ### Hi there 👋
 
-Hi, I'm Breno Lemos, 25 years old, I'm living in Fortaleza, graduated in engineering, a passionate about development and fascinated by the Digital Ecosystem. I currently work as a Front-End and Web Developer.
+Hi, I'm Breno Lemos, 27 years old, based in Fortaleza - Brazil, hold an engineering degree. A passionate about web development and fascinated by the Digital Ecosystem. Currently working as a Front-End Software Engineer.
 
-- 💻 I’m currently learning TDD.
-- 📚 Reading "How to Be a Better Programmer", to improve my skills as a Developer.
-- ⚡ Fun fact: Graduated in Telecomunication Engineering 👨‍🎓
+- 💻 I’m currently learning Functional Programming.
+- 📚 Reading "Grokking Algorithms", to improve my skills as a Developer.
+- ⚡ Fun fact: Hold an in Telecomunications Engineering degree 👨‍🎓
 
 <div style="display: flex;">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=brennolemos&theme=dracula&show_icons=true"/>
